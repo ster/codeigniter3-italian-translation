@@ -51,11 +51,10 @@ $lang['imglib_rotate_unsupported'] = 'La rotazione delle immagini sembra non ess
 $lang['imglib_libpath_invalid'] = 'L\'indirizzo della libreria delle immagini non &egrave; corretto. Impostare l\'indirizzo corretto nei settaggi delle immagini.';
 $lang['imglib_image_process_failed'] = 'Lavorazione dell\'immagine fallita. Verificare che il server supporti il protocollo scelto e che l\'indirizzo della libreria delle immagini sia corretto.';
 $lang['imglib_rotation_angle_required'] = 'Un angolo di rotazione &egrave; necessario per poter eseguire la rotazione di una immagine.';
-$lang['imglib_writing_failed_gif'] = 'immagine GIF.';
 $lang['imglib_invalid_path'] = 'L\'indirizzo dell\'immagine non &egrave; corretto.';
 $lang['imglib_copy_failed'] = 'Il tentativo di copiare l\'immagine &egrave; fallito.';
 $lang['imglib_missing_font'] = 'Impossibile trovare la font da utilizzare.';
 $lang['imglib_save_failed'] = 'Impossibile salvare l\'immagine. Verificare che l\'immagine e la directory siano scrivibili.';
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/italian/imglib_lang.php */
+/* Location: ./application/language/italian/imglib_lang.php */
